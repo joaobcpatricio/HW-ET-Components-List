@@ -18,5 +18,45 @@
 | Sound Sensor          | Sound Sensor              | Used for Audio amplifier, Ambient sound detection, and Sound level detection              | LM386 + board V2      | 1     | <img src="imgs/image-13.png" width="20%"/>| [Datasheet](https://www.waveshare.com/sound-sensor.htm) |
 | lcd module 1602a qapass | Display                 | Display without any extra connections                                                     | lcd module 1602a qapass | 1   | <img src="imgs/image.png" width="20%"/> | [Datasheet](https://www.opldisplaytec.com/article/60409) |
 | Ultrasonic HC-SR04 Sensor |Ultrasonic Sensor      | Ultrasonic sensor for distance measurement                                                | HC-SR04               | 6     |  <img src="imgs/image-1.png" width="20%"/>  | [Datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
-| White Breadboard      | Breadboard                | Breadboard for electrical components 640/200                                              | Breadboard            | 1     | <img src="imgs/image-14.png" width="20%"/> | |
+| White Breadboard      | Breadboard                | Breadboard for electrical components 640/200                                              | Breadboard            | 1     | <img src="imgs/image-14.png" width="20%"/> |-|
+|I2C Display Module     | Display                   | 16x2 1602 LCD Display Screen Blue + IIC I2C Module datasheet                              | 1602 LCD & I2C        | 1     | <img src="imgs/image-15.png" width="20%"/> | [Datasheet](https://www.handsontec.com/dataspecs/module/I2C_1602_LCD.pdf) |
+| DHT11 Temp & Humidity | Sensor                    | DHT11 Temperature and Humidity Sensor                                                     | DHT11                 | 1     | <img src="imgs/image-16.png" width="20%"/>| [Datasheet](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf?srsltid=AfmBOoqNOV0kEg4uGLbIXyMZSG76PRf0puS6ClM037xwqhR7fiOJ6Nag) |
+| Mini Breadboard       |Breadboard                 | BusBoard Prototype Systems BB170-BK                                                       | BB170-BK              | 2     | <img src="imgs/image-17.png" width="20%"/> | - |
+| Arduino Uno rev 3     | Arduino Microcontroler    |   Arduino microcontroler                                                                  | Arduino Uno           | 1     | <img src="imgs/image-18.png" width="20%"/> | [Datasheet](https://docs.arduino.cc/hardware/uno-rev3/)|
+| USB A to B Cable      |   Cable                   | Cable USB 2.0 A to B.                                                                     | -                     | 1     | <img src="imgs/image-19.png" width="20%"/> | - |
+| BusBoard Prototype    | BreadBoard                | BusBoard Prototype Systems ST1 for welding.                                               | VK C-1160-EP          | 1     | <img src="imgs/image-20.png" width="20%"/> | [Datasheet](https://eu.mouser.com/ProductDetail/BusBoard-Prototype-Systems/ST1?qs=NGErKr1RxMAXV5lcv8OdyQ%3D%3D&srsltid=AfmBOorDSTGXCMWtpnvA05QuGc1nf5CAiwo3zfUN6r1ZG2aXHaXPBi33) |
+| 10K variable resitor  | Resistor                  | 10k 056 variable resistor with 3 pins                                                     | 10K 056               | 10    | <img src="imgs/image-21.png" width="20%"/> | - |
+| 10K 136M variable resistor    | Resistor          | 10K 136M variable resistor with 3 pins                                                    | 10K 136M              | 1     | <img src="imgs/image-22.png" width="20%"/> | - |
+| 22K variable resistor |   Resistor                | 22K variable resistor with 3 pins                                                         | 22K                   | 2     | <img src="imgs/image-23.png" width="20%"/> | - |
+| 10K Potenciometer     |   Potenciometer           | 10K Ohm Linear Rotary Potentiometer 0.5W                                                  | B10K Ohm              | 2     | <img src="imgs/image-24.png" width="20%"/> | - |
+| Small Button 4P       |   Button                  | Small 4-Pin Tactile Button Switch                                                         | IK                    | 7     | <img src="imgs/image-25.png" width="20%"/> | - |
+| Mini Button 4P        |   Button                  | Very small 4-Pin Tactile Button Switch                                                    | IK                    | 10    | <img src="imgs/image-25.png" width="20%"/> | - |
+| 10K Potentiometer     | Potentiometer             | 10 K rotary potentiometer 3 pins                                                          | 3362P-1-102           | 13    | <img src="imgs/image-26.png" width="20%"/> | - |
+| MOSFET Transistor     | Transistor                | PBL Mosfet Transistor                                                                     | ALD1103PBL            | 1     | <img src="imgs/image-27.png" width="20%"/> | [Datasheet](https://www.aldinc.com/pdf/ALD1103.pdf) |
+| Op Amp TL082CP        | Amplifier                 |Op Amp TL082CP                                                                             | TL082CP               |3      | <img src="imgs/image-28.png" width="20%"/> | [Datasheet](https://eu.mouser.com/ProductDetail/Texas-Instruments/TL082CP?qs=3FVjRv9mUZ9wpnudDQ0hww%3D%3D&utm_id=20109199424&gad_source=1&gclid=CjwKCAjw3624BhBAEiwAkxgTOpPXZa-O11-_nXW1ojjTOdY0T3kYqxCTPpEKtY9FFgfXVWkBBxjHGBoCMnUQAvD_BwE) |
+| BC547C  Transistor    | Transistor                | Bipolar Transistor BC547C                                                                 | BC547C                | 21    | | [Datasheet](https://www.mouser.ch/ProductDetail/onsemi/BC547C?qs=vLkC5FC1VN9aNDzwWdeJmA%3D%3D&srsltid=AfmBOoouhRH6CDvyYBXrk-TlWGXEDkceyKUb8KHsFpU8vQmks4XFyQh-) |
+| Light Sensor          | Sensor                    | Light Sensor                                                                              | 1528-2141-ND          | 4     | <img src="imgs/image-29.png" width="20%"/> | [Datasheet](https://www.digikey.com/en/products/detail/adafruit-industries-llc/161/7244927) |
+| Leds                  | Leds                      | Planty of leds, mostly red, some green and white                                          | -                     |>50    | <img src="imgs/image-30.png" width="20%"/> | - |
+
+
+
+
+### Capacitors
+
+| Value                 | Type                      | Description                                                                               | Model Number          | Quantity | Image  | Datasheet Link | 
+|-----------------------|---------------------------|-------------------------------------------------------------------------------------------|-----------------------|-------| - | - |
+| 100uF                 | Capacitor                 | 100uF Condensador with different Voltages (25-63V) and Temperatures (85-105 Celsius)      |                       | 10    | - | - |
+| 8uF                   | Capacitor                 | 8uF Condensador 5V 105 Celsius                                                            |                       | 3     | - | - |
+| 47uF                  | Capacitor                 | 47uF Condensador with different voltages (50-63V) and Temperatures (85-105 Celsius)       |                       | 12    | - | - |
+| 10uF                  | Capacitor                 | 10uF Condensador with different voltages (63V) and Temperatures (105 Celsius)             |                       | 10    | - | - |
+| 1uF                   | Capacitor                 | 1uF Condensador with different voltages (100V) and Temperatures (105 Celsius)             |                       | 5     | - | - |
+| 22uF                  | Capacitor                 | 22uF Condensador with different voltages (63V) and Temperatures (105 Celsius)             |                       | 1     | - | - |
+| 4.7uF                 | Capacitor                 | 4.7uF Condensador with different voltages (100V) and Temperatures (105 Celsius)           |                       | 1     | - | - |
+| 6.8uF                 | Capacitor                 | 6.8uF Condensador with different voltages (50V) and Temperatures (105 Celsius)            |                       | 3     | - | - |
+| 1.5uF                 | Capacitor                 | Kondensator 1,5nF M 250V MKT1822 T4                                                       | MKT1822 T4            | 2     | - | - |
+| 0.1uF                 | Capacitor                 |   Capacitor                                                                               | B32529C1104J189       | 2     | - | - |
+| 15nF                  | Capacitor                 |   Capacitor                                                                               |                       | 2     | - | - |
+| 2.2uF                 | Capacitor                 |   Capacitor                                                                               |                       | 1     | - | - |
+
+| 102K                  | Capacitor                 |   Capacitor                                                                               |                       | 1     | - | - |
 
