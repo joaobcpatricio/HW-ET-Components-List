@@ -54,6 +54,8 @@
 |48 | nRF 24L01+ Module     | Wireless Module           | nRF 24L01+ Transceiver and receiver modules                                               | nRF24L01+             | 2     |  <img src="imgs/image-45.png" width="20%"/> | [Link](https://wolles-elektronikkiste.de/en/nrf24l01-2-4-ghz-radio-modules)
 |49 | Arduino Nano          | Microcontroller           | Arduino Nano Microcontroller                                                              | ATmega 328            | 2     | <img src="imgs/image-46.png" width="20%"/> | - |
 |50 | nRF52840 Dongle       |Wireless Dongle            | Wireless dongle nRF52840                                                                  | nRF52840              | 1     | <img src="imgs/image-47.png" width="20%"/> | [Link](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle) |
+|51 | DS0138 Osciloscope    |Osciloscope                | DSO 138 Oscilloscope DIY Kit                                                              | DS0138                | 1     | <img src="imgs/image-48.png" width="20%"/>   | [Datasheet](https://jyetech.com/wp-content/uploads/2018/07/dso138-user-manual-13803k-13804k.pdf) |
+
 
 
 * Plenty resistors
