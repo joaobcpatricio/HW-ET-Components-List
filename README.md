@@ -1,5 +1,7 @@
 # Core List
 
+List of electronic components.
+
 ## Main List
 
 | Number | Component | Type   | Description | Model Number | Quantity | Image | Datasheet Link |
